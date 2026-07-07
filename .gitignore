@@ -1,0 +1,33 @@
+# Operating System Files
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# macOS
+.DS_Store
+
+
+# Arduino IDE Files
+
+# Compiled binaries
+*.hex
+*.elf
+
+# Temporary files
+*.tmp
+*.bak
+
+
+# IDE Settings
+
+# VS Code
+.vscode/
+
+# PlatformIO
+.pio/
+
+
+# Logs
+
+*.log
