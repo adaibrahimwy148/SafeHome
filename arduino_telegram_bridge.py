@@ -3,8 +3,8 @@ import serial
 import time
 import threading
 
-TOKEN   = "8457967165:AAHHgF2kznpa8OGUAJnlUpaSS0HdE8pjFPQ"
-CHAT_ID = "8772375653"
+TOKEN   = "token number"
+CHAT_ID = "chat id"
 
 def send_telegram(msg):
     url = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
