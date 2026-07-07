@@ -9,18 +9,14 @@ The system combines multiple sensors, an LCD display, an IR remote controller, a
 ### 🔥 Fire and Smoke Protection
 - Detects dangerous environmental conditions using fire and smoke sensors.
 - Provides immediate alerts when a potential hazard is detected.
-- Activates water pump and opens doors and windows.
+- Activates water pump and opens doors and windows in case of fires.
+- Activates fan and opens windows in case of smoke.
 - Sends notifications to the homeowner through Telegram.
 
 ### 🚨 Intrusion Detection
 - Detects unauthorized access attempts using ultrasonic sensors.
 - Activates alarms and sends instant Telegram notifications.
 - Closes doors and windows.
-
-### 🚨 Smoke Detection
-- Detects poor air quality and smoke.
-- Activates alarms and sends instant Telegram notifications.
-- Opens windows and activates fan.
 
 ### 🎮 Dual Operating Modes
 
